@@ -1,0 +1,4 @@
+file1 10K
+file2 2M
+file3 500
+file4 1G

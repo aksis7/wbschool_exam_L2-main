@@ -1,0 +1,6 @@
+﻿INFO: Application started
+ERROR: Failed to load configuration
+INFO: Retrying connection
+WARNING: Low memory
+ERROR: Connection timed out
+INFO: Application stopped

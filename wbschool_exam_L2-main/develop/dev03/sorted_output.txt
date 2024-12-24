@@ -1,0 +1,5 @@
+Jan 100
+Feb 200
+May 300
+Mar 50
+Apr 75
